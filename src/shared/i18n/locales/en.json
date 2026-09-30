@@ -1,0 +1,198 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "seeAll": "See all",
+    "km": "km",
+    "min": "min",
+    "h": "h"
+  },
+  "difficulty": {
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "all": "All"
+  },
+  "auth": {
+    "appName": "Alcantara",
+    "tagline": "Alcantara River Park",
+    "login": "Log in",
+    "register": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "name": "Name",
+    "loginButton": "Log in",
+    "registerButton": "Create account",
+    "orContinueWith": "or continue with",
+    "google": "Google",
+    "facebook": "Facebook",
+    "twitter": "X (Twitter)",
+    "apple": "Apple",
+    "iosOnly": "iOS only",
+    "termsPrefix": "By continuing you agree to the",
+    "terms": "Terms of Service",
+    "and": "and ",
+    "privacy": "Privacy Policy",
+    "errors": {
+      "invalidEmail": "Invalid email",
+      "weakPassword": "Password must be at least 6 characters",
+      "wrongPassword": "Wrong email or password",
+      "userNotFound": "User not found",
+      "emailInUse": "Email already in use",
+      "generic": "Something went wrong. Please try again."
+    }
+  },
+"home": {
+    "park": "Sicily",
+    "trailsCount": "{{count}} trails",
+    "valleyLocation": "Alcantara Valley",
+    "searchPlaceholder": "Search a trail...",
+    "featured": "Featured",
+    "allTrails": "All trails",
+    "heroTitle": "Discover the \nNature of the\nAlcantara Park",
+    "sections": {
+      "adventures": "Alcantara Park Adventures",
+      "experience": "Experience Alcantara Park"
+    },
+    "categories": {
+      "excursions": {
+        "title": "Excursions",
+        "subtitle": "Trails and paths in nature"
+      },
+      "gorges": {
+        "title": "Gorges and nature",
+        "subtitle": "The spectacular Alcantara Gorges"
+      },
+      "relax": {
+        "title": "Relaxation and picnic",
+        "subtitle": "Equipped areas for your relaxation"
+      },
+      "panoramas": {
+        "title": "Scenic spots",
+        "subtitle": "Breathtaking views and unforgettable photos"
+      }
+    },
+    "promo": {
+      "title": "A unique experience\nbetween water and rock",
+      "subtitle": "Live the emotions of Alcantara Park in every season.",
+      "button": "Discover more"
+    },
+    "logs": {
+      "selectedCategory": "Selected category",
+      "promoPressed": "Promo banner pressed"
+    }
+  
+  },
+  "explore": {
+    "title": "Explore",
+    "searchPlaceholder": "Search a trail...",
+    "resultsCount": "{{count}} trails",
+    "resultsCountOne": "{{count}} trail",
+    "filters": "Filters",
+    "reset": "Reset",
+    "resetFilters": "Reset filters",
+    "showResults": "Show {{count}} trails",
+    "emptyTitle": "No trails found",
+    "emptySubtitle": "Try adjusting your search or filters.",
+    "stats": "Trail stats",
+    "distance": "Distance",
+    "duration": "Duration",
+    "elevation": "Elevation gain",
+    "difficulty":  "Difficulty",
+    "categories":  "Categories",
+    "sortBy": "Sort by",
+    "sort": {
+      "recommended": "Recommended",
+      "distanceAsc": "Distance: shortest first",
+      "distanceDesc": "Distance: longest first",
+      "durationAsc": "Duration: shortest first",
+      "ratingDesc": "Top rated"
+    }
+  },
+  "trailDetail": {
+    "errorLoading": "Unable to load this trail.",
+    "duration": "Duration",
+    "distance": "Distance",
+    "elevationGain": "Elevation gain",
+    "maxAltitude": "Max altitude",
+    "description": "Description",
+    "pointsOfInterest": "Points of interest",
+    "categories": "Categories",
+    "openInMaps": "Start",
+      "reviews": {
+        "title": "Reviews",
+        "write": "Write",
+        "edit": "Edit",
+        "delete": "Delete",
+        
+        "deleteConfirmTitle": "Delete review",
+        "deleteConfirmMessage": "Are you sure you want to delete your review?",
+        "alreadyReviewed": "You've already left a review for this trail. You can edit it below.",
+        "count": "{{count}} reviews",
+        "countOne": "{{count}} review",
+        "empty": "No reviews yet. Be the first to leave one!",
+        "errorLoading": "Unable to load reviews.",
+        "modalTitleCreate": "Leave a review",
+        "modalTitleEdit": "Edit your review",
+        "commentPlaceholder": "Share your experience...",
+        "submit": "Submit review",
+        "submitEdit": "Save changes",
+        "authRequiredTitle": "Sign in required",
+        "authRequiredMessage": "You need to sign in to write or edit a review.",
+        "goToLogin": "Sign in"
+      }
+  },
+  "profile": {
+    "memberSince": "Member since {{date}}",
+    "favorites": "Favorites",
+    "reviews": "Reviews",
+    "archive": "Archive",
+    "reviewsTab": "Reviews",
+    "logout": "Log out",
+    "logoutConfirmTitle": "Log out",
+    "logoutConfirmMessage": "Are you sure you want to log out?",
+    "emptyArchiveTitle": "No favorites yet",
+    "emptyArchiveSubtitle": "Save trails you like to find them here.",
+    "emptyArchiveCta": "Explore trails",
+    "emptyReviewsTitle": "No reviews yet",
+    "emptyReviewsSubtitle": "Complete a trail and share your thoughts.",
+    "emptyReviewsCta": "Go to Home",
+    "loginToFavorite": "Sign in to save favorite trails.",
+    "editProfile": "Edit profile",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "nameRequired": "Please enter a valid name.",
+    "photoPermissionTitle": "Photo access",
+    "photoPermissionMessage": "Allow access to photos to change your avatar."
+  },
+  "tabs": {
+    "home": "Home",
+    "explore": "Explore",
+    "map": "Map",
+    "favorites": "Favorites",
+    "profile": "Profile"
+  },
+  "map": {
+    "permissionDeniedTitle": "Location unavailable",
+    "permissionDeniedMessage": "Allow location access in settings.",
+    "startTrail": "Start trail",
+    "stopTrail": "Stop trail",
+    "stopTrailTitle": "Stop trail",
+    "stopTrailMessage": "Are you sure you want to stop?",
+    "stopTrailConfirm": "Stop",
+    "clearRoute": "Show all trails",
+    "tracking": {
+      "time": "Time",
+      "distance": "Distance",
+      "pace": "Pace",
+      "speed": "Speed"
+    }
+}
+}

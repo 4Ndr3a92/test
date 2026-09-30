@@ -1,0 +1,197 @@
+{
+  "common": {
+    "loading": "Caricamento...",
+    "error": "Si è verificato un errore",
+    "retry": "Riprova",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "edit": "Modifica",
+    "delete": "Elimina",
+    "close": "Chiudi",
+    "seeAll": "Vedi tutti",
+    "km": "km",
+    "min": "min",
+    "h": "h"
+  },
+  "difficulty": {
+    "easy": "Facile",
+    "medium": "Medio",
+    "hard": "Difficile",
+    "all": "Tutti"
+  },
+  "auth": {
+    "appName": "Alcantara",
+    "tagline": "Parco Fluviale dell'Alcantara",
+    "login": "Accedi",
+    "register": "Registrati",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Conferma password",
+    "name": "Nome",
+    "loginButton": "Accedi",
+    "registerButton": "Crea account",
+    "orContinueWith": "oppure accedi con",
+    "google": "Google",
+    "facebook": "Instagram",
+    "twitter": "X (Twitter)",
+    "apple": "Apple",
+    "iosOnly": "Solo iOS",
+    "termsPrefix": "Continuando accetti i",
+    "terms": "Termini di servizio",
+    "and": "e l'",
+    "privacy": "Informativa sulla privacy",
+    "errors": {
+      "invalidEmail": "Email non valida",
+      "weakPassword": "La password deve contenere almeno 6 caratteri",
+      "wrongPassword": "Email o password non corretti",
+      "userNotFound": "Utente non trovato",
+      "emailInUse": "Email già registrata",
+      "generic": "Si è verificato un errore. Riprova."
+    }
+  },
+  "home": {
+    "park": "Sicilia",
+    "trailsCount": "{{count}} percorsi",
+    "valleyLocation": "Valle dell'Alcantara",
+    "searchPlaceholder": "Cerca un percorso...",
+    "featured": "In evidenza",
+    "allTrails": "Tutti i percorsi",
+    "heroTitle": "Scopri la Natura del\nParco dell'Alcantara",
+    "sections": {
+      "adventures": "Le Avventure del Parco dell'Alcantara",
+      "urban": "I Sentieri Cittadini",
+      "experience": "Vivi il Parco dell'Alcantara"
+    },
+    "categories": {
+      "excursions": {
+        "title": "Escursioni",
+        "subtitle": "Sentieri e percorsi nella natura"
+      },
+      "gorges": {
+        "title": "Gole e natura",
+        "subtitle": "Le spettacolari gole dell'Alcantara"
+      },
+      "relax": {
+        "title": "Relax e picnic",
+        "subtitle": "Aree attrezzate per il tuo relax"
+      },
+      "panoramas": {
+        "title": "Punti panoramici",
+        "subtitle": "Scorci indimenticabili e foto mozzafiato"
+      }
+    },
+    "promo": {
+      "title": "Un'esperienza unica\ntra acqua e roccia",
+      "subtitle": "Vivi le emozioni del Parco dell'Alcantara in ogni stagione.",
+      "button": "Scopri di più"
+    },
+    "logs": {
+      "selectedCategory": "Categoria selezionata",
+      "promoPressed": "Banner promozionale premuto"
+    }
+  },
+  "explore": {
+    "title": "Esplora",
+    "searchPlaceholder": "Cerca luoghi o percorsi...",
+    "resultsCount": "{{count}} Risultati",
+    "resultsCountOne": "{{count}} Risultato",
+    "filters": "Filtri",
+    "reset": "Reimposta",
+    "resetFilters": "Reimposta filtri",
+    "showResults": "Mostra {{count}} Risultato",
+    "emptyTitle": "Nessun Risultato trovato",
+    "emptySubtitle": "Prova a modificare la ricerca o i filtri applicati.",
+    "stats": "Statistiche del percorso",
+    "distance": "Distanza",
+    "duration": "Durata",
+    "elevation": "Dislivello",
+    "sortBy": "Ordina per",
+    "difficulty": "Difficoltà",
+    "categories": "Categorie",
+    "sort": {
+      "recommended": "In evidenza",
+      "distanceAsc": "Distanza: crescente",
+      "distanceDesc": "Distanza: decrescente",
+      "durationAsc": "Durata: più breve",
+      "ratingDesc": "Più votati"
+    }
+  },
+  "trailDetail": {
+    "errorLoading": "Impossibile caricare il percorso.",
+    "duration": "Durata",
+    "distance": "Distanza",
+    "elevationGain": "Dislivello",
+    "maxAltitude": "Quota max",
+    "description": "Descrizione",
+    "pointsOfInterest": "Punti di interesse",
+    "categories": "Categorie",
+    "openInMaps": "Inizia il percorso",
+    "reviews": {
+      "title": "Recensioni",
+      "write": "Scrivi",
+      "edit": "Modifica",
+      "delete": "Elimina",
+      "deleteConfirmTitle": "Elimina recensione",
+      "deleteConfirmMessage": "Sei sicuro di voler eliminare la tua recensione?",
+      "alreadyReviewed": "Hai già lasciato una recensione per questo percorso. Puoi modificarla dalla lista qui sotto.",
+      "count": "{{count}} recensioni",
+      "countOne": "{{count}} recensione",
+      "empty": "Nessuna recensione ancora. Sii il primo a lasciarne una!",
+      "errorLoading": "Impossibile caricare le recensioni.",
+      "modalTitleCreate": "Lascia una recensione",
+      "modalTitleEdit": "Modifica recensione",
+      "commentPlaceholder": "Racconta la tua esperienza...",
+      "submit": "Invia recensione",
+      "submitEdit": "Salva modifiche",
+      "authRequiredTitle": "Accesso richiesto",
+      "authRequiredMessage": "Devi accedere per scrivere o modificare una recensione.",
+      "goToLogin": "Accedi"
+    }
+  },
+  "profile": {
+    "memberSince": "Membro da {{date}}",
+    "favorites": "Preferiti",
+    "reviews": "Recensioni",
+    "archive": "Archivio",
+    "reviewsTab": "Recensioni",
+    "logout": "Esci",
+    "logoutConfirmTitle": "Esci dall'account",
+    "logoutConfirmMessage": "Sei sicuro di voler uscire?",
+    "emptyArchiveTitle": "Nessun preferito",
+    "emptyArchiveSubtitle": "Salva i percorsi che ti piacciono per ritrovarli qui.",
+    "emptyArchiveCta": "Esplora i percorsi",
+    "emptyReviewsTitle": "Nessuna recensione",
+    "emptyReviewsSubtitle": "Completa un percorso e lascia la tua opinione.",
+    "emptyReviewsCta": "Vai alla Home",
+    "loginToFavorite": "Accedi per salvare i percorsi preferiti.",
+    "editProfile": "Modifica profilo",
+    "name": "Nome",
+    "namePlaceholder": "Il tuo nome",
+    "nameRequired": "Inserisci un nome valido.",
+    "photoPermissionTitle": "Accesso foto",
+    "photoPermissionMessage": "Consenti l'accesso alle foto per cambiare l'avatar."
+  },
+  "tabs": {
+    "home": "Home",
+    "explore": "Esplora",
+    "map": "Mappa",
+    "favorites": "Preferiti",
+    "profile": "Profilo"
+  },
+  "map": {
+    "permissionDeniedTitle": "Posizione non disponibile",
+    "permissionDeniedMessage": "Consenti l'accesso alla posizione nelle impostazioni.",
+    "startTrail": "Inizia il percorso",
+    "stopTrail": "Termina percorso",
+    "stopTrailTitle": "Termina il percorso",
+    "stopTrailMessage": "Sei sicuro di voler terminare il percorso?",
+    "stopTrailConfirm": "Termina",
+    "clearRoute": "Mostra tutti i percorsi",
+    "tracking": {
+      "time": "Tempo",
+      "distance": "Distanza",
+      "pace": "Passo",
+      "speed": "Velocità"
+    }
+  }
+}
